@@ -1,0 +1,9 @@
+name: Combo
+version: 1.0
+author: Badlyac
+main: org.badlyac.combo.Combo
+api-version: 1.20
+commands:
+  setMaxNoDamageTicks:
+    usage: /setMaxNoDamageTicks <ticks>
+    aliases: combo
